@@ -24,6 +24,9 @@ Based on the similarity scores, the system identifies and recommends the top mov
 
 # Technologies Used
 Python: Programming language for implementation.
+
 Pandas: For data manipulation and cleaning.
+
 Scikit-learn: For TF-IDF vectorization and cosine similarity computation.
+
 Jupyter Notebook: For developing and testing the model.
